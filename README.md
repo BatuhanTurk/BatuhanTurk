@@ -49,7 +49,7 @@
   <a href="https://github.com/BatuhanTurk" target="blank"><img align="center" 
      src="https://komarev.com/ghpvc/?username=BatuhanTurk&style=for-the-badge&label=PROFILE+VIEWS" height="25"
      alt="views count" /></a>
-  <a href="https://batuhanturk.tech/"><img align="center" 
+ <a href="https://batuhanturk.tech/"><img align="center" 
      src="https://img.shields.io/website?down_message=offline&style=for-the-badge&up_message=online&url=https://batuhanturk.tech/" height="25"
      alt="website" /></a>
   </p>
